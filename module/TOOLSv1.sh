@@ -16,6 +16,7 @@ sleep 1
 echo ""
 echo "Semoga bermanfaat :)"
 sleep 1
+exit
 }
 
 lagi=1
