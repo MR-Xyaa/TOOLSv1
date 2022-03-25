@@ -11,7 +11,7 @@ pkg install git
 figlet selesai | lolcat
 sleep 1
 
-echo #################### | lolcat
+echo ***************************** | lolcat
 sleep 5
 
 # tampilan
