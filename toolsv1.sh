@@ -6,6 +6,6 @@ clear
 
 python2 please.py
 
-python logo.py
+sh logo.sh
 
 sh TOOLSv1.sh
