@@ -1,6 +1,6 @@
 #!/bin/bash
 #recodemati:v
-#Tools Lengkapv1 by Xyaa
+#Tools Lengkapv1 by KCHTZ
 
 echo "•••••••••••••••••••••••••••••••••••••••••••••" | lolcat
 echo                 "~~~~~ TOOLS INSTALLERV1 ~~~~~" 
@@ -11,7 +11,7 @@ ctrl_c() {
 clear
 echo  $red"(Ctrl + C ) Detected,
 Exit ... "
-echo "CODED BY MR-Xyaa"
+echo "CODED BY XYAA"
 sleep 1
 echo ""
 echo "Semoga bermanfaat :)"
@@ -65,7 +65,7 @@ echo  "=========================================" |lolcat
 echo  $c "20. Phising All Sosmed                 *${endc}";
 echo  "=========================================" |lolcat
 echo ""
-echo  "╭─Xyaa" |lolcat
+echo  "╭─XYAA" |lolcat
 read -p "╰─>" pil;
 
 #PFFv1
@@ -288,7 +288,7 @@ bash shellphish.sh
 
 ;;
 
-00) echo "Coded by : MR-Xyaa" |lolcat
+00) echo "Coded by : XYAA" |lolcat
 exit
 
 ;;
