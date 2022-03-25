@@ -1,7 +1,6 @@
 #!/bin/bash
 #recodemati:v
-#Tools Lengkapv1 by MR-Xyaa
-
+#Tools Lengkapv1 by Xyaa
 
 echo "•••••••••••••••••••••••••••••••••••••••••••••" | lolcat
 echo                 "~~~~~ TOOLS INSTALLERV1 ~~~~~" 
@@ -66,7 +65,7 @@ echo  "=========================================" |lolcat
 echo  $c "20. Phising All Sosmed                 *${endc}";
 echo  "=========================================" |lolcat
 echo ""
-echo  "╭─KCHTZ" |lolcat
+echo  "╭─Xyaa" |lolcat
 read -p "╰─>" pil;
 
 #PFFv1
