@@ -5,7 +5,8 @@ figlet Install Bahan | lolcat
 sleep 3
 
 clear
-pkg update && pkg upgrade
+pkg update 
+pkg upgrade
 pkg install git
 
 clear
