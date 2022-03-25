@@ -11,12 +11,12 @@ pkg install git
 figlet selesai | lolcat
 sleep 1
 
-echo ***************************** | lolcat
+echo XNXX.COM | lolcat
 sleep 5
 
 # tampilan
 clear
-echo WAIT••• | lolcat
+echo LOADING••• | lolcat
  sleep 5
 clear
 toilet -f big -F gay TOOLSv1 | lolcat
