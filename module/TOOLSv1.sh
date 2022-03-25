@@ -70,7 +70,7 @@ read -p "╰─>" pil;
 
 #PFFv1
 
-case $pil in
+case $pil
 1) pkg update && pkg upgrade
 apt install toilet
 pkg install git
