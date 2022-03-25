@@ -11,12 +11,12 @@ ctrl_c() {
 clear
 echo  $red"(Ctrl + C ) Detected,
 Exit ... "
-echo "CODED BY XYAA"
+echo "CODED BY KCHTZ"
 sleep 1
 echo ""
 echo "Semoga bermanfaat :)"
 sleep 1
-exit
+exit 
 }
 
 lagi=1
@@ -65,12 +65,12 @@ echo  "=========================================" |lolcat
 echo  $c "20. Phising All Sosmed                 *${endc}";
 echo  "=========================================" |lolcat
 echo ""
-echo  "╭─XYAA" |lolcat
+echo  "╭─KCHTZ" |lolcat
 read -p "╰─>" pil;
 
 #PFFv1
 
-case $pil
+case $pil in
 1) pkg update && pkg upgrade
 apt install toilet
 pkg install git
@@ -288,7 +288,7 @@ bash shellphish.sh
 
 ;;
 
-00) echo "Coded by : XYAA" |lolcat
+00) echo "Coded by : KCHTZ" |lolcat
 exit
 
 ;;
