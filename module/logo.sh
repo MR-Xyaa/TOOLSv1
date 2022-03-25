@@ -11,13 +11,14 @@ pkg install git
 figlet selesai | lolcat
 sleep 1
 
-echo ● ● ● | lolcat
+echo local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' ) | lolcat
 sleep 5
 
 # tampilan
 clear
-echo WAIT.... | lolcat
+echo WAIT••• | lolcat
  sleep 5
+clear
 toilet -f big -F gay TOOLSv1 | lolcat
 echo "=============================================" | lolcat
 echo "[•] Author : MR-Xyaa                         "
