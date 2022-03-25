@@ -4,19 +4,20 @@
 figlet Install Bahan | lolcat
 sleep 3
 
+clear
 pkg update && pkg upgrade
 pkg install git
 
-
+clear
 figlet selesai | lolcat
 sleep 1
 
-local spinner=('●▪▪▪' '▪●▪▪' '▪▪●▪' '▪▪▪●' )
+echo local spinner=('●▪▪▪' '▪●▪▪' '▪▪●▪' '▪▪▪●' )
 sleep 5
 
 # tampilan
 clear
- local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
+echo local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
  sleep 5
 toilet -f big -F gay 
 echo "=============================================" | lolcat
